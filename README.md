@@ -1,4 +1,9 @@
-### Hi there 👋
+### Hi there
+My name is Matt, and I'm a full stack developer with a passion for backend dev.
+
+- I'm currently working on the website for [A2B2 Studios, LLC](https://a2b2.org)
+- I'm currently mastering C# and Blazor.
+
 
 <!--
 **TerryDev/TerryDev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
